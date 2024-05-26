@@ -1,0 +1,28 @@
+[
+    {
+       "name": "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+       "actor": "Jhonny Deep",
+       "soundtrack": "He's a Pirate"
+    },
+    {
+       "name": "The Mummy (1999)",
+       "actor": "Brendan Fraser",
+       "soundtrack": "The Sand Volcano"
+    },
+    {
+       "name": "Harry Potter and the Sorcerer's Stone (2001)",
+       "actor": "Daniel Radcliffe",
+       "soundtrack": "Hedwig's Theme"
+    },
+    {
+       "name": "Inception (2010)",
+       "actor": "Leonardo DiCaprio",
+       "soundtrack": "Time"
+    },
+    {
+       "name": "Titanic (1997)",
+       "actor": "Leonardo DiCaprio",
+       "soundtrack": "My Heart Will Go On"
+    },
+    
+]

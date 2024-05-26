@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Santos FC",
+        "icon": "santos",
+        "footballer": "Pele"
+    },
+    {
+        "name": "Boca Juniors",
+        "icon": "boca",
+        "footballer": "Diego Maradona"
+    },
+    {
+        "name": "Barcelona",
+        "icon": "barcelona",
+        "footballer": "Xavi Hernandez"
+    },
+    {
+        "name": "Manchester United",
+        "icon": "manchester",
+        "footballer": "George Best"
+    },
+    {
+        "name": "Juventus",
+        "icon": "juventus",
+        "footballer": "Alessandro Del Piero"
+    },
+    {
+        "name": "Bayern Münih",
+        "icon": "bayern",
+        "footballer": "Franz Beckenbauer"
+    }
+    
+    
+    
+]
